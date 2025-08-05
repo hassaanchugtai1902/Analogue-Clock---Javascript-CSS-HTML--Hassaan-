@@ -1,2 +1,4 @@
 # Analogue-Clock---Javascript-CSS-HTML--Hassaan-
-This is Analogue clock made by Javascript. CSS HTML
+This is an Analogue clock made with JavaScript. CSS HTML
+Author - Hassaan Naveed 
+Beginner-level projects
